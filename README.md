@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @PiyachaiBee
-- 👀 I’m interested in database
-- 🌱 I’m currently learning DBeaver and never stop learning :-)
+- 👀 I’m interested in database and ⛹️‍♀️python
+- 🌱 I’m currently learning DBeaver & Python 🥇I never stop learning :-)
 - 💞️ I’m looking to collaborate on logistics data analysts 
 - 📫 How to reach me by tabnote.
 
